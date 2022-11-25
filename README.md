@@ -17,9 +17,16 @@ you can input your own trained model (have to be .rds file)
 
 You can input the single cell data (.csv) here or checking for the example data ([downloaded here](https://github.com/chenxi199506/TH2Asorting/blob/main/example.csv))
 
+Note： the .csv file MUST include five colnames including KLRB1	ZC2HC1A	CD3E	GPR183	PTGS2
+![image](https://user-images.githubusercontent.com/77444305/204022388-59c5fbe6-10e0-44dd-b82c-69b2eb9694fd.png)
+
+
+
 ## Cut-off 
 
 The cut-off value which to define the TH2A cells
+
+# Example
 
 
 
