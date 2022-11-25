@@ -1,4 +1,4 @@
-# TH2Asorting
+# TH2A single cell sorting
 ### Online tools for TH2A cells identification based on single cell sequencing data
 
 This Online tool was created by the shiny app which allows you to identification the TH2A cells in your own single cell sequencing data
