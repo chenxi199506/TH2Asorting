@@ -7,11 +7,11 @@ This Online tool was created by the shiny app which allows you to identification
 
 ## Input the trained model (.rds)
 
-you can input our SVM trained model ([downloaded here](https://github.com/chenxi199506/TH2Asorting/blob/main/trained%20model.rds))
+you can input our SVM trained model: **trained model.rds** ([downloaded here](https://github.com/chenxi199506/TH2Asorting/blob/main/trained%20model.rds))
 
-OR 
+**OR** 
 
-you can input your own trained model (have to be .rds file)
+you can input your own trained model (have to be **.rds** file)
 
 ## Input you single cell data (.csv)
 
@@ -28,5 +28,8 @@ The cut-off value which to define the TH2A cells
 
 # Example
 
+## This video show how to use this online tools
+
+https://user-images.githubusercontent.com/77444305/204023985-99ba04b7-cae2-4f5c-82c1-06df690c0e2f.mp4
 
 
