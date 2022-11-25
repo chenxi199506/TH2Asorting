@@ -5,7 +5,7 @@ This Online tool was created by the shiny app which allows you to identification
 
 [https://chenxi2023.shinyapps.io/th2asorting/](https://chenxi2023.shinyapps.io/th2asorting/)
 
-## Input the trained model (.rds)
+## 01 Input the trained model (.rds)
 
 you can input our SVM trained model: **trained model.rds** ([downloaded here](https://github.com/chenxi199506/TH2Asorting/blob/main/trained%20model.rds))
 
@@ -13,7 +13,7 @@ you can input our SVM trained model: **trained model.rds** ([downloaded here](ht
 
 you can input your own trained model (have to be **.rds** file)
 
-## Input you single cell data (.csv)
+## 02 Input you single cell data (.csv)
 
 You can input the single cell data (.csv) here or checking for the example data ([downloaded here](https://github.com/chenxi199506/TH2Asorting/blob/main/example.csv))
 
@@ -22,7 +22,7 @@ Note： the .csv file MUST include five colnames including KLRB1	ZC2HC1A	CD3E	GP
 
 
 
-## Cut-off 
+## 03 Cut-off 
 
 The cut-off value which to define the TH2A cells
 
